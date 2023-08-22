@@ -23,7 +23,7 @@ public class Animal {
 }
 
 
-// PRUEBAS 
+// PRUEBAS CON EL METODO tenerHijo()
 /*
 package org.example;
 
